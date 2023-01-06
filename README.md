@@ -1,2 +1,2 @@
 # Spoutgram readme
-A social network and blogging site.
+A social media platform and blogging site.
