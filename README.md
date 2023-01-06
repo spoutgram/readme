@@ -1,3 +1,2 @@
-# readme
-Spoutgram Readme
+# Spoutgram readme
 A social network and blogging site.
